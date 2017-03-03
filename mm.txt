@@ -1,0 +1,6 @@
+.mm {
+width:150px;
+height:150px;
+padding-right: 5 px;
+float:left;
+}

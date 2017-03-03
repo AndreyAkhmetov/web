@@ -1,0 +1,47 @@
+<html>
+ <head> 
+  <link href="2.txt" rel="stylesheet">
+ </head>
+<body>
+ <div class="mm">
+	<img src="sq.jpg"/>
+	<h2>1</h2>
+ </div> 
+ <div class="mm">
+	<img src="sq.jpg" />
+	<h2>2</h2>
+ </div>
+ <div class="mm">
+	<img src="sq.jpg"/>
+	<h2>3</h2>
+ </div>
+ <div class="mm">
+	<img src="sq.jpg"/>
+	<h2>4</h2>
+ </div>
+ <div class="mm">
+	<img src="sq.jpg"/>
+	<h2>5</h2>
+ </div>
+ <div class="mm">
+	<img src="sq.jpg"/>
+	<h2>6</h2>
+ </div>
+ <div class="mm">
+	<img src="sq.jpg"/>
+	<h2>7</h2>
+ </div>
+ <div class="mm">
+	<img src="sq.jpg"/>
+	<h2>8</h2>
+ </div>
+ <div class="mm">
+	<img src="sq.jpg"/>
+	<h2>9</h2>
+ </div>
+ <div class="mm">
+	<img src="sq.jpg"/>
+	<h2>10</h2>
+ </div>
+</body>
+</html>
